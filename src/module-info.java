@@ -6,4 +6,5 @@
  *
  */
 module datospersonales {
+	requires java.desktop;
 }
